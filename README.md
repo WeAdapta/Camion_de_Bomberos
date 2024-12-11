@@ -23,13 +23,7 @@ Modificación del juguete camión de bomberos.
 
 ![Foto10](img/Foto10.jpg)
 
+![Video1](img/video1.gif)
 
-<video controls width="600">
-    <source src="img/video1.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-</video>
+![Video2](img/video2.gif)
 
-<video controls width="600">
-    <source src="img/video2.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-</video>
