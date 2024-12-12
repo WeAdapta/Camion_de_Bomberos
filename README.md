@@ -166,7 +166,8 @@ Una vez que todo esté montado y ensamblado correctamente, ¡es hora de probar y
 
 ---
 
-Siguiendo estos pasos con paciencia y atención, podrás desmontar el camión de bomberos de manera adecuada y estarás listo para proceder con las modificaciones. Si necesitas ayuda con los pasos posteriores, ¡no dudes en consultarlo! 😊
+Siguiendo estos pasos con paciencia y atención, podrás desmontar el camión de bomberos de manera adecuada y estarás listo para proceder con las modificaciones. Si necesitas ayuda con los pasos posteriores, ¡no dudes en consultarlo! 😊 [Realizar consulta]([https://github.com/tu-usuario/tu-repo/issues](https://github.com/WeAdapta/Camion_de_Bomberos/issues))
+
 
 ---
 
