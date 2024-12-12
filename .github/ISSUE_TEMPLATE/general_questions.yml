@@ -1,0 +1,21 @@
+name: Pregunta general
+description: Hacer una consulta general sobre el proyecto o los juguetes.
+title: "[Pregunta]: "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Tu pregunta
+      placeholder: "Escribe aquí tu duda o consulta."
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+      description: "Proporciona un poco de contexto para que podamos entender mejor tu pregunta."
+      placeholder: "Explica tu situación aquí."
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Información adicional
+      description: "Si aplica, incluye enlaces, fotos o documentación relevante."
