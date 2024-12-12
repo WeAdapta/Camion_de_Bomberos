@@ -1,0 +1,26 @@
+name: Soporte en montaje
+description: Solicitar ayuda o resolver dudas sobre el montaje de juguetes.
+title: "[Montaje]: "
+labels: ["assembly"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Descripción del problema
+        Describe qué parte del montaje no está funcionando o dónde necesitas ayuda.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos realizados
+      description: "¿Qué intentaste hacer? ¿Qué herramientas usaste?"
+      placeholder: "1. Paso 1\n2. Paso 2"
+  - type: input
+    id: model
+    attributes:
+      label: Modelo del juguete
+      placeholder: "Especifica el modelo del juguete"
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Información adicional
+      description: "Adjunta fotos, diagramas o enlaces que expliquen mejor tu situación."
