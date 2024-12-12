@@ -1,0 +1,27 @@
+name: Proponer una mejora
+description: Compartir una idea para mejorar el proyecto o añadir funciones.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea-description
+    attributes:
+      label: Descripción de la idea
+      placeholder: "Describe de manera clara y concisa tu propuesta."
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justificación
+      description: "¿Por qué crees que esta mejora sería útil o necesaria?"
+      placeholder: "Explica por qué es importante."
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementación sugerida
+      description: "¿Tienes alguna idea de cómo podríamos implementar esta mejora?"
+      placeholder: "Proporciona detalles técnicos o conceptuales."
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Información adicional
+      description: "Incluye cualquier detalle, enlace o recurso relevante."
